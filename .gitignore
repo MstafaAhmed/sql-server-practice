@@ -1,0 +1,15 @@
+# SQL Server backups and data files
+*.bak
+*.mdf
+*.ldf
+*.ndf
+
+# SSMS / editor files
+*.suo
+*.user
+.vs/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
